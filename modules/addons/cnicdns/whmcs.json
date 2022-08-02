@@ -5,26 +5,24 @@
   "license": "MIT",
   "category": "digitalservices",
   "description": {
-    "name": "CentralNic DNS Addon v1.3.0",
+    "name": "CentralNic Resellers DNS Addon v1.3.0",
     "tagline": "Manage DNS",
     "long": "",
-    "features": [
-      "Manage DNS zones for your domains at CentralNic brands"
-    ]
+    "features": ["Manage DNS zones for your domains at CentralNic Resellers"]
   },
   "logo": {
     "filename": "logo.png"
   },
   "support": {
-    "homepage": "https:\/\/www.centralnicgroup.com\/",
-    "learn_more": "https:\/\/github.com\/centralnic-reseller\/whmcs-dns\/blob\/master\/README.md",
-    "support_url": "https:\/\/github.com\/centralnic-reseller\/whmcs-dns\/wiki\/Contact-Us",
-    "docs_url": "https:\/\/github.com\/centralnic-reseller\/whmcs-dns\/wiki\/Usage-Guide"
+    "homepage": "https://www.centralnicresellers.com/",
+    "learn_more": "https://github.com/centralnic-reseller/whmcs-dns/blob/master/README.md",
+    "support_url": "https://github.com/centralnic-reseller/whmcs-dns/wiki/Contact-Us",
+    "docs_url": "https://github.com/centralnic-reseller/whmcs-dns/wiki/Usage-Guide"
   },
   "authors": [
     {
-      "name": "CentralNic",
-      "homepage": "https:\/\/www.centralnicgroup.com\/"
+      "name": "CentralNic Resellers",
+      "homepage": "https://www.centralnicresellers.com/"
     }
   ]
 }
